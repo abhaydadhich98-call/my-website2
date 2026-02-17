@@ -1,0 +1,54 @@
+h1{
+    color:#800020;
+    margin-bottom:50px;
+    margin-top: -300px;
+    text-decoration: underline;
+    
+}
+
+body{
+     background-color:#FFC0CB;
+    
+
+    fornt-family:verdana, geneva,sans-serif;
+    font-size: 30px; 
+    margin:0;
+   
+   
+}
+
+.container{
+    width:80%;
+    margin:350px;
+}
+
+.box-1{
+    background-color:#FFC0CB;
+    p{
+    color:#5A3E36;
+    width: 80%;
+    text-align: left;
+}
+    
+}
+
+a{
+     color:#5A3E36;
+}
+     
+a:hover{
+    color:azure;
+}
+
+.box-2{
+
+    h2{text-decoration: underline;
+    color:#800020}
+    font-family:inherit;
+}
+
+
+   
+    
+    
+    
